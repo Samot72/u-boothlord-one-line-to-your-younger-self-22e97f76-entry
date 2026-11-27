@@ -10,7 +10,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 
 const LINE =
-  "Buy the cheap shoes. You will spend the next twenty years learning that blisters cost more than leather.";
+  "Buy the cheap shoes. Twenty years of blisters will teach you they cost more than leather.";
 
 const MIN_CHARS = 1;
 const MAX_CHARS = 200;
